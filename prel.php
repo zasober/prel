@@ -131,7 +131,7 @@
 
 
      setTimeout(() => {
-      document.location.href = "offer link&<?=http_build_query($_GET)?>";
+      document.location.href = "https://www.richdad.com/classic&<?=http_build_query($_GET)?>";
 
     }, 1750);
 
